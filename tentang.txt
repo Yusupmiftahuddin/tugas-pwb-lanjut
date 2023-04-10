@@ -1,0 +1,3 @@
+file ini digunakan untuk tugas :
+  1. dokumen UAT
+  2. dokumen beta testing
