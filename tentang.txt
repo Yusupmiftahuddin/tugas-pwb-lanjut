@@ -1,3 +1,5 @@
 file ini digunakan untuk tugas :
   1. dokumen UAT
   2. dokumen beta testing
+  3. akun git
+  4. presentasi akhir
